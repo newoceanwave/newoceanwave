@@ -6,7 +6,7 @@
 <!-- About me -->
 ## 📌 About Me
 - 🏫 수원외국어고등학교 영어과 졸업 (2017.03 - 2020.01)  
-- 🏫 숙명여자대학교 소프트웨어융합전공 재학 (2021.03 - 2026.02 예정)  
+- 🏫 숙명여자대학교 소프트웨어융합전공, 통계학과(부전공) 재학(2021.03 - 2026.02 예정)  
 - 🌱 I’m currently learning **SpringBoot**, **Go**, and **Rust**  
 - 💻 I'm interested in **Backend Development**, **Blockchain**, and **Infrastructure**  
 - 🎯 I aim to turn insights into innovation, communicate with clarity, and create value through smart collaboration.  
