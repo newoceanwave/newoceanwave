@@ -84,3 +84,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=newoceanwave&show_icons=true&theme=default" alt="GitHub Stats" />
   <br /><br />
 </div>
+
+# 잔디 뜯어먹는 뱀 애니메이션 (GitHub Actions 설정 가이드 포함)
+![github contribution grid snake animation](https://raw.githubusercontent.com/아이디/아이디/output/github-contribution-grid-snake.svg)
