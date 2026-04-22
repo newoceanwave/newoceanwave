@@ -85,5 +85,5 @@
   <br /><br />
 </div>
 
-# 잔디 뜯어먹는 뱀 애니메이션 (GitHub Actions 설정 가이드 포함)
-![github contribution grid snake animation](https://raw.githubusercontent.com/아이디/아이디/output/github-contribution-grid-snake.svg)
+# 스포티파이 실시간 재생 정보 (Aesthetic 버전)
+[![Spotify](https://novatorem-spotify-readme.vercel.app/api/run?uid=본인ID&theme=dark)](https://open.spotify.com/user/본인ID)
