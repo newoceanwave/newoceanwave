@@ -85,5 +85,5 @@
   <br /><br />
 </div>
 
-# 스포티파이 실시간 재생 정보 (Aesthetic 버전)
-[![Spotify](https://novatorem-spotify-readme.vercel.app/api/run?uid=본인ID&theme=dark)](https://open.spotify.com/user/본인ID)
+# 설정 필요 없는 뱀 애니메이션 (아이디만 바꾸세요)
+![snake](https://github-readme-snake.vercel.app/api/snake?github=newoceanwave&color_dots=%23ebedf0,%239be9a8,%2340c463,%2330a14e,%23216e39&color_snake=%23ffb6c1)
