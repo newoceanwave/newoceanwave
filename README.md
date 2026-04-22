@@ -84,6 +84,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=newoceanwave&show_icons=true&theme=default" alt="GitHub Stats" />
   <br /><br />
 </div>
-
-# 설정 필요 없는 뱀 애니메이션 (아이디만 바꾸세요)
-![snake](https://github-readme-snake.vercel.app/api/snake?github=newoceanwave&color_dots=%23ebedf0,%239be9a8,%2340c463,%2330a14e,%23216e39&color_snake=%23ffb6c1)
